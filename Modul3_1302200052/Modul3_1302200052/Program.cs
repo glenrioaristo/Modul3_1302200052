@@ -7,8 +7,13 @@ namespace Modul3_1302200052
 
         static void Main(string[] args)
         {
-            KodeBuah kodebuah = new KodeBuah();
-            kodebuah.getKodeBuah();
+          //KodeBuah kodebuah = new KodeBuah();
+          //kodebuah.getKodeBuah();
+
+
+            PosisiKarakterGame.Mulai();
         }
+
+
     }
 }
